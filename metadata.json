@@ -1,0 +1,10 @@
+{
+  "name": "VisionX",
+  "description": "Real-time AI computer vision laboratory for facial expression analysis, dual-hand gesture recognition, air-drawn shape classification, touchless YouTube control, and virtual keyboard Google search.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
